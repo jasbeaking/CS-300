@@ -8,8 +8,8 @@ In Project One, I performed an analysis of the run-time efficiency and memory us
 - **Hash Table**: This structure offers nearly constant-time access and is highly efficient for searches based on course ID.
 - **Binary Search Tree (BST)**: It supports ordered data management and enables efficient operations like lookup, insertion, and deletion, achieving an average complexity of O(log n).
 
-By understanding these trade-offs, I was able to choose the most appropriate data structure depending on the need for quick access or data ordering.
----
+**By understanding these trade-offs, I was able to choose the most appropriate data structure depending on the need for quick access or data ordering.
+**---
 ## Project Two: Organized Course List
 
 The second project focused on creating a menu-driven C++ application that:
